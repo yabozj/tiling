@@ -127,7 +127,7 @@ pip3 install z3-solver
 # Usage
 
 ```shell
-$python3 makeyourday.py #year #month #day
+$python3 makeyourday.py $year $month $day
 ```
 
 For example:
